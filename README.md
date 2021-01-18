@@ -1,6 +1,6 @@
 # loginui
 
-A new Flutter application.
+An Animated LoginUI
 
 ## Getting Started
 
